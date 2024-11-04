@@ -41,7 +41,7 @@
 		}
 	}
 
-	// const hondaCar = new Car2();
+	// const hondaCar = new Car2(); // --> not allowed
 	// hondaCar.startEngine();
 
 	class ToyotaCar extends Car2 {
